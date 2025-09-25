@@ -19,7 +19,7 @@ This project is designed as a **portfolio-ready HTML/CSS project**. It demonstra
 
 ## 🔗 Live Demo
 
-view the live page here : [Food Munch Landing Page](https://your-username.github.io/food-munch-landing-page/)
+view the live page here : [Food Munch Landing Page](https://aishwarya152.github.io/food_munch/)
 
 ---
 
